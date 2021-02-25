@@ -1,7 +1,7 @@
 ﻿# Ecommerce-Products-Table-Responsive
 
 ***
- ##### Little cubes appears in order to form a big cube with CSS3 Grid Layout animation. You can also put the cursor over the cubes and they grow 
+ ##### Structure and design for a products table responsive that simulate a real ecommerce whithout functionality using CSS3 Grid Layout, Flex, Animations and HTML5  
 
 ![Grid layout](table.gif)
 
